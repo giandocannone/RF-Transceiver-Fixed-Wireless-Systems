@@ -1,0 +1,60 @@
+# MATLAB-spezifisch
+*.asv
+*.m~
+*.mdf
+*.ldf
+*.slxc
+slprj/
+codegen/
+*.mexw64
+*.mexmaci64
+*.mexa64
+
+# Simulink
+*.slxc
+cache/
+codegen/
+simcache/
+*_ert_rtw/
+
+# MATLAB-generierte Dateien
+*.c
+*.h
+*.make
+sfrl_automata/
+
+# Octave
+*.octfilter
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python (falls du später Scripts nutzt)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Logs
+*.log
+
+# Temporäre Dateien
+*.tmp
+*.bak
+*.backup
+
+# Große Dateien (optional - nur wenn deine .slx sehr groß ist)
+# *.slx   ← AUSKOMMENTIERT, damit .slx hochgeladen wird!
