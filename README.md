@@ -110,7 +110,7 @@ This project demonstrates enterprise-grade RF system design suitable for:
 - **Optional:** RF Toolbox (advanced RF analysis)
 
 ### Step 1: Initialize System Parameters
-```matlab
+
 % Navigate to project directory
 cd /path/to/your/FWA-Transceiver
 
@@ -170,7 +170,6 @@ regen_flag = 0;         % Include rain? (0=No, 1=Yes) ← ADJUST HERE
 
 ### Step 2: Initialize System Parameters
 
-```matlab
 % Open Simulink model
 open('QAM_HF_Modell_Beispiel1.slx')
 
