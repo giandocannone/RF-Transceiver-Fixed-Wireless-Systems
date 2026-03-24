@@ -109,7 +109,45 @@ This project demonstrates enterprise-grade RF system design suitable for:
 - **Signal Processing Toolbox** (filtering, DSP blocks)
 - **Optional:** RF Toolbox (advanced RF analysis)
 
-### Step 1: Initialize System Parameters
+## 📋 License
+
+This project is **dual-licensed**:
+
+### Free (Open Source)
+✅ **Apache License 2.0** for non-commercial use
+- Academic research and education
+- Non-profit projects
+- Community contributions
+
+See [LICENSE](./LICENSE) file for full details.
+
+### Commercial License
+💼 For commercial use (products, services, consulting), contact:
+
+**📧 Email:** giandocannone@gmail.com  
+**🔗 LinkedIn:** [linkedin.com/in/giandocannone](https://www.linkedin.com/in/giandocannone)
+---
+
+## 👤 Author
+
+**[Giandomenico Cannone]**
+- 🎓 [Master Degree in Telecommunication Engineering / RF, Microwave and mmWave Engineering]
+- 💼 RF/Wireless Systems Engineer, Project Manager, Product Manager, Data Analyst
+- 🔬 Focus: RF, Microwave and mmWave systems and components, data analysis
+
+Questions or collaboration opportunities? Get in touch!
+
+
+### FWA-Transceiver-Model/
+├── README.md                              # This documentation
+├── LICENSE                                # Dual license (Apache 2.0 + Commercial)
+├── .gitignore                             # MATLAB ignore rules
+├── QAM_Bewertung_System_Parameter.m       # ← EDIT THIS for different scenarios
+└── QAM_HF_Modell_Beispiel1.slx            # Simulink model (frequency-agnostic)
+
+
+```matlab
+- ### Step 1: Initialize System Parameters
 
 % Navigate to project directory
 cd /path/to/your/FWA-Transceiver
@@ -182,38 +220,4 @@ sim('QAM_HF_Modell_Beispiel1')
 
 
 
-FWA-Transceiver-Model/
-├── README.md                              # This documentation
-├── LICENSE                                # Dual license (Apache 2.0 + Commercial)
-├── .gitignore                             # MATLAB ignore rules
-├── QAM_Bewertung_System_Parameter.m       # ← EDIT THIS for different scenarios
-└── QAM_HF_Modell_Beispiel1.slx            # Simulink model (frequency-agnostic)
 
-
-## 📋 License
-
-This project is **dual-licensed**:
-
-### Free (Open Source)
-✅ **Apache License 2.0** for non-commercial use
-- Academic research and education
-- Non-profit projects
-- Community contributions
-
-See [LICENSE](./LICENSE) file for full details.
-
-### Commercial License
-💼 For commercial use (products, services, consulting), contact:
-
-**📧 Email:** giandocannone@gmail.com  
-**🔗 LinkedIn:** [linkedin.com/in/giandocannone](https://www.linkedin.com/in/giandocannone)
----
-
-## 👤 Author
-
-**[Giandomenico Cannone]**
-- 🎓 [Master Degree in Telecommunication Engineering / RF, Microwave and mmWave Engineering]
-- 💼 RF/Wireless Systems Engineer, Project Manager, Product Manager, Data Analyst
-- 🔬 Focus: RF, Microwave and mmWave systems and components, data analysis
-
-Questions or collaboration opportunities? Get in touch!
