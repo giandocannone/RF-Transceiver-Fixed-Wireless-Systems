@@ -52,7 +52,7 @@ See [LICENSE](./LICENSE) file for full details.
 
 **[Giandomenico Cannone]**
 - 🎓 [Master Degree in Telecommunication Engineering / RF, Microwave and mmWave Engineering]
-- 💼 RF/Wireless Systems Engineer , Data Analyst
-- 🔬 Focus: RF, Microwave and mmWave systems and components
+- 💼 RF/Wireless Systems Engineer, Project Manager, Product Manager, Data Analyst
+- 🔬 Focus: RF, Microwave and mmWave systems and components, data analysis
 
 Questions or collaboration opportunities? Get in touch!
