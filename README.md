@@ -45,7 +45,7 @@ See [LICENSE](./LICENSE) file for full details.
 💼 For commercial use (products, services, consulting), contact:
 
 **📧 Email:** giandocannone@gmail.com  
-**🔗 LinkedIn:** [giandocannone](linkedin.com/in/giandocannone)
+**🔗 LinkedIn:** [linkedin.com/in/giandocannone](linkedin.com/in/giandocannone)
 ---
 
 ## 👤 Author
