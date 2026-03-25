@@ -1,3 +1,49 @@
+## 📋 License
+
+This project is **dual-licensed** under a **Non-Commercial / Commercial model**:
+
+### ✅ Free (Non-Commercial / Academic)
+You may use, modify, and distribute this project **only for non-commercial purposes**:
+
+- Academic research and education  
+- Non-profit projects  
+- Community contributions
+
+**Key conditions:**
+- Retain copyright notice and license
+- Include the LICENSE file with redistributions
+- Modifications must be clearly marked
+
+See [LICENSE](./LICENSE) for full terms.
+
+---
+
+### 💼 Commercial License
+For **any commercial use**, including but not limited to:
+
+- Proprietary products or software  
+- Commercial services or consulting  
+- Industrial applications  
+- Redistribution or licensing for profit
+
+You **must obtain a separate commercial license** from the author.
+
+**Contact for commercial licensing:**
+
+- **📧 Email:** giandocannone@gmail.com  
+- **🔗 LinkedIn:** [linkedin.com/in/giandocannone](https://www.linkedin.com/in/giandocannone)
+
+> Commercial licensing terms are negotiable and customized per use case.
+
+## 👤 Author
+
+**[Giandomenico Cannone]**
+- 🎓 [Master Degree in Telecommunication Engineering / RF, Microwave and mmWave Engineering]
+- 💼 RF/Wireless Systems Engineer, Project Manager, Product Manager, Data Analyst
+- 🔬 Focus: RF, Microwave and mmWave systems and components, data analysis
+
+Questions or collaboration opportunities? Get in touch!
+
 # Parametric Fixed Wireless Access (FWA) Transceiver Model
 
 ## 📊 Project Overview
@@ -107,52 +153,6 @@ This project demonstrates enterprise-grade RF system design suitable for:
 - **Communications Toolbox** (M-QAM, RRC, modulation)
 - **Signal Processing Toolbox** (filtering, DSP blocks)
 - **Optional:** RF Toolbox (advanced RF analysis)
-
-## 📋 License
-
-This project is **dual-licensed** under a **Non-Commercial / Commercial model**:
-
-### ✅ Free (Non-Commercial / Academic)
-You may use, modify, and distribute this project **only for non-commercial purposes**:
-
-- Academic research and education  
-- Non-profit projects  
-- Community contributions
-
-**Key conditions:**
-- Retain copyright notice and license
-- Include the LICENSE file with redistributions
-- Modifications must be clearly marked
-
-See [LICENSE](./LICENSE) for full terms.
-
----
-
-### 💼 Commercial License
-For **any commercial use**, including but not limited to:
-
-- Proprietary products or software  
-- Commercial services or consulting  
-- Industrial applications  
-- Redistribution or licensing for profit
-
-You **must obtain a separate commercial license** from the author.
-
-**Contact for commercial licensing:**
-
-- **📧 Email:** giandocannone@gmail.com  
-- **🔗 LinkedIn:** [linkedin.com/in/giandocannone](https://www.linkedin.com/in/giandocannone)
-
-> Commercial licensing terms are negotiable and customized per use case.
-
-## 👤 Author
-
-**[Giandomenico Cannone]**
-- 🎓 [Master Degree in Telecommunication Engineering / RF, Microwave and mmWave Engineering]
-- 💼 RF/Wireless Systems Engineer, Project Manager, Product Manager, Data Analyst
-- 🔬 Focus: RF, Microwave and mmWave systems and components, data analysis
-
-Questions or collaboration opportunities? Get in touch!
 
 
 ### FWA-Transceiver-Model/
