@@ -1,3 +1,18 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Parametric FWA Transceiver Model
+% MATLAB/Simulink Simulation
+%
+% Copyright (c) 2026 Giandomenico Cannone
+% Dual-License: Apache 2.0 (non-commercial) / Commercial License
+%
+% Fingerprint: UUID: 7f1e3b92-0c4f-4b3a-9b76-f6d2dce5c111
+% SHA256 Release Hash: 4d2f3a9b7c1d5e6f8a9b0c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f
+%
+% Author: Giandomenico Cannone
+% Email: giandocannone@gmail.com
+% LinkedIn: https://www.linkedin.com/in/giandocannone
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 clear
 close all
 clc
@@ -93,6 +108,8 @@ simulink_params.SNR_sample_dB = SNR_sample_dB;
 simulink_params.rrc_span  = rrc_span;
 simulink_params.rrc_rolloff = rrc_rolloff;
 simulink_params.Nsym_frame = Nsym_frame;
+% Hidden fingerprint (nicht für Simulation relevant)
+simulink_params.FingerprintID = 'FWA-UUID-7f1e3b92-0c4f-4b3a-9b76-f6d2dce5c111';
 
 % Speichern als .mat für Simulink-Parameter
 save('simulink_params.mat','-struct','simulink_params');
@@ -118,6 +135,7 @@ txSymbols = qammod(data_test, M, 'UnitAveragePower', true);
 %% RRC Transmit Filter anwenden
 %% -----------------------
 rrc_tx = rcosdesign(rolloff, span, sps, 'sqrt');
+% Fingerprint Marker: FWA-RRC-2026-GC-001
 txUpsampled = upsample(txSymbols, sps);
 txFiltered = conv(txUpsampled, rrc_tx, 'same');
 
@@ -261,6 +279,10 @@ Memory = 1;          % z.B. 1 Memory-Tap
 numOrders = 3;       % Cubic Term
 mu_DPD = 1e-5;       % Schrittweite LMS
 
+% -----------------------------
+% PA / DPD Fingerprint Marker
+% Fingerprint: FWA-PA-DPD-2026-GC-002
+% -----------------------------
 
 % Initialisierung der DPD-Koeffizienten (komplex)
 a1_init = complex(10^(Gain_Tx_dB/20));               
