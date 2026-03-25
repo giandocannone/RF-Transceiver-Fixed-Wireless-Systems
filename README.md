@@ -17,8 +17,8 @@ This project demonstrates enterprise-grade RF system design suitable for:
 
 ### 🎯 Fully Parametric System Design
 - **Carrier Frequency:** User-configurable (5.9 GHz to 100+ GHz)
-- **Channel Bandwidth:** Adjustable (50 MHz to 1+ GHz)
-- **Modulation Schemes:** 16-QAM, 64-QAM, 256-QAM, 1024-QAM (scalable)
+- **Channel Bandwidth:** Adjustable (14 MHz to 224 MHz, 250 MHz to 1+ GHz)
+- **Modulation Schemes:** 4-QAM, 16-QAM, 64-QAM, 256-QAM, 1024-QAM (scalable)
 - **Link Distance:** Configurable (100 m to 100+ km)
 - **Antenna Gains:** User-defined TX/RX gains
 - **Environmental Models:** Gas absorption, rain attenuation (ITU standards)
@@ -32,7 +32,6 @@ This project demonstrates enterprise-grade RF system design suitable for:
 - **Variable Gain Amplifier (VGA):** Dynamic gain control
 - **Power Amplifier (PA) Model:** 
   - Cubic nonlinearity with AM/AM & AM/PM
-  - Rapp model option for realistic saturation
   - Backoff calculation & P1dB compression
 - **IQ Modulation:** Frequency-agnostic to arbitrary carrier
 
@@ -60,9 +59,9 @@ This project demonstrates enterprise-grade RF system design suitable for:
 ### 📊 Performance Metrics
 - **Bit Error Rate (BER):** Real-time measurement
 - **Symbol Error Rate (SER):** Per-modulation tracking
-- **Error Vector Magnitude (EVM):** Constellation quality assessment (under construction)
 - **Link Budget Analysis:** Sensitivity, SNR requirements, margins
 - **Spectral Efficiency:** Bits per second per Hz (under construction)
+- **Error Vector Magnitude (EVM):** Constellation quality assessment (under construction)
 
 ---
 
@@ -87,7 +86,7 @@ This project demonstrates enterprise-grade RF system design suitable for:
 | **64-QAM** | 6 bits/symbol | Standard FWA | ✅ Converged |
 | **256-QAM** | 8 bits/symbol | High spectral eff. | ✅ Converged |
 | **1024-QAM** | 10 bits/symbol | Premium capacity | ✅ Converged |
-| **2048-QAM** | 10 bits/symbol | Premium capacity | ✅ Tested |
+| **2048-QAM** | 12 bits/symbol | Premium capacity | ✅ Tested |
 
 
 ### Link Scenarios
