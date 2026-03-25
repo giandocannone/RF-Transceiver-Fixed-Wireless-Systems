@@ -86,7 +86,7 @@ This project demonstrates enterprise-grade RF system design suitable for:
 | **64-QAM** | 6 bits/symbol | Standard FWA | ✅ Converged |
 | **256-QAM** | 8 bits/symbol | High spectral eff. | ✅ Converged |
 | **1024-QAM** | 10 bits/symbol | Premium capacity | ✅ Converged |
-| **2048-QAM** | 12 bits/symbol | Premium capacity | ✅ Tested |
+| **2048-QAM** | 11 bits/symbol | Premium capacity | ✅ Tested |
 
 
 ### Link Scenarios
