@@ -1,68 +1,63 @@
-                           DUAL LICENSE AGREEMENT
+DUAL LICENSE AGREEMENT
 ======================
 
 This project is dual-licensed under the following terms:
 
 ================================================================================
-1. OPEN SOURCE LICENSE (FREE)
+1. OPEN SOURCE LICENSE (NON-COMMERCIAL / ACADEMIC)
 ================================================================================
-
-For non-commercial, educational, and research purposes:
-
-Apache License, Version 2.0
 
 Copyright [2026] [Giandomenico Cannone]
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
+You may use, modify, and distribute this project **for non-commercial, educational, or research purposes** under the following conditions:
 
-    http://www.apache.org/licenses/LICENSE-2.0
+1. Retain this copyright notice and license.
+2. Include a copy of this license in any redistribution.
+3. Any modifications must be clearly marked as such.
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+This is a **Non-Commercial License (NCL)**. Commercial use (see Section 2) is **not permitted** without a separate agreement.
 
 ================================================================================
-2. COMMERCIAL LICENSE (PROPRIETARY)
+2. COMMERCIAL LICENSE
 ================================================================================
 
-For commercial use, including but not limited to:
-- Integration into commercial products
+For any **commercial use**, including but not limited to:
+
+- Integration into proprietary products
 - Commercial services or consulting
-- Proprietary modifications for industrial applications
-- Re-sale or licensing of derivative works
+- Industrial applications
+- Re-sale, licensing, or distribution with modifications
 
-A separate commercial license agreement is required.
+You must obtain a **separate commercial license** from the author.
 
 CONTACT FOR COMMERCIAL LICENSING:
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Email:    giandocannone@gmail.com
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Email: giandocannone@gmail.com
 LinkedIn: https://www.linkedin.com/in/giandocannone
 
-Terms are negotiable and customized per use case.
+Commercial license terms are negotiable and customized per use case.
 
 ================================================================================
 3. DETERMINATION OF LICENSE
 ================================================================================
 
-If you are unsure whether your use case falls under the open-source license
-or requires a commercial license, contact the author.
-
 General guidelines:
-✅ Open Source (Apache 2.0):
-   - Academic research & education
-   - Non-commercial projects
-   - Open-source contributions
 
-❌ Requires Commercial License:
-   - Commercial products
-   - Proprietary software
-   - Industrial applications
-   - Consulting/Support contracts
-   - Re-licensing or re-distribution with modifications
+✅ Non-Commercial / Open Source:
+- Academic research & education
+- Personal projects
+- Open-source contributions
+
+❌ Commercial (requires license):
+- Proprietary software
+- Products or services generating revenue
+- Consulting or support contracts
+- Redistribution or modifications for profit
+
+If unsure, contact the author to confirm which license applies.
 
 ================================================================================
+4. DISCLAIMER
+================================================================================
+
+This software is provided "AS IS", without warranty of any kind. Use at your own risk.
