@@ -110,22 +110,40 @@ This project demonstrates enterprise-grade RF system design suitable for:
 
 ## 📋 License
 
-This project is **dual-licensed**:
+This project is **dual-licensed** under a **Non-Commercial / Commercial model**:
 
-### Free (Open Source)
-✅ **Apache License 2.0** for non-commercial use
-- Academic research and education
-- Non-profit projects
+### ✅ Free (Non-Commercial / Academic)
+You may use, modify, and distribute this project **only for non-commercial purposes**:
+
+- Academic research and education  
+- Non-profit projects  
 - Community contributions
 
-See [LICENSE](./LICENSE) file for full details.
+**Key conditions:**
+- Retain copyright notice and license
+- Include the LICENSE file with redistributions
+- Modifications must be clearly marked
 
-### Commercial License
-💼 For commercial use (products, services, consulting), contact:
+See [LICENSE](./LICENSE) for full terms.
 
-**📧 Email:** giandocannone@gmail.com  
-**🔗 LinkedIn:** [linkedin.com/in/giandocannone](https://www.linkedin.com/in/giandocannone)
 ---
+
+### 💼 Commercial License
+For **any commercial use**, including but not limited to:
+
+- Proprietary products or software  
+- Commercial services or consulting  
+- Industrial applications  
+- Redistribution or licensing for profit
+
+You **must obtain a separate commercial license** from the author.
+
+**Contact for commercial licensing:**
+
+- **📧 Email:** giandocannone@gmail.com  
+- **🔗 LinkedIn:** [linkedin.com/in/giandocannone](https://www.linkedin.com/in/giandocannone)
+
+> Commercial licensing terms are negotiable and customized per use case.
 
 ## 👤 Author
 
